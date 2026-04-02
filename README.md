@@ -49,7 +49,7 @@ ps：想起来或者多了再补充
 
 更多急救训练地图请访问：
 
-- 急救虚拟现实训练室：[FirstAid-VRC-TrainingRoom](https://github.com/pqzou/FirstAid-VRC-TrainingRoom)
+- VRChat急救训练教室：[FirstAid-VRC-TrainingRoom](https://github.com/pqzou/FirstAid-VRC-TrainingRoom)
 
 ## 使用说明
 
